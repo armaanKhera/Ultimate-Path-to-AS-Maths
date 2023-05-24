@@ -1,4 +1,4 @@
-# Ultimate Path to AS Maths repository
+# Ultimate Path to AS Maths
 
 ## Overview
 
