@@ -1,4 +1,5 @@
 # Ultimate Path to AS Maths
+![Ultimate Path to AS Maths](https://i.ibb.co/BVvV3Yj/banner.png)
 
 ## Overview
 
